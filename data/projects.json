@@ -1,0 +1,14 @@
+[
+    {
+      "id": "1",
+      "title": "My First Project",
+      "role": "Frontend Developer",
+      "description": "This is a placeholder for my future project description in English.",
+      "techstack": ["React", "Next.js", "Tailwind"],
+      "links": {
+        "github": "https://github.com",
+        "live": "https://vercel.com"
+      },
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    }
+  ]
